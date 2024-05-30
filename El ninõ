@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>El Niño: Vantagens e Desvantagens</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background: #4CAF50;
+            color: white;
+            padding: 1em;
+            text-align: center;
+        }
+        nav {
+            text-align: center;
+            padding: 1em;
+        }
+        nav a {
+            margin: 0 15px;
+            text-decoration: none;
+            color: #4CAF50;
+        }
+        section {
+            padding: 2em;
+            max-width: 800px;
+            margin: auto;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+        }
+        .image-container {
+            text-align: center;
+            margin: 2em 0;
+        }
+        footer {
+            background: #4CAF50;
+            color: white;
+            text-align: center;
+            padding: 1em 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>El Niño: Vantagens e Desvantagens</h1>
+</header>
+
+<nav>
+    <a href="#o-que-e">O que é El Niño?</a>
+    <a href="#vantagens">Vantagens</a>
+    <a href="#desvantagens">Desvantagens</a>
+</nav>
+
+<section id="o-que-e">
+    <h2>O que é El Niño?</h2>
+    <p>El Niño é um fenômeno climático caracterizado pelo aquecimento anômalo das águas superficiais do Oceano Pacífico central e oriental. Esse aquecimento pode ter impacto significativo no clima global, alterando padrões de precipitação e temperatura.</p>
+    <div class="image-container">
+        <img src="https://example.com/el-nino.jpg" alt="Imagem ilustrativa de El Niño">
+    </div>
+</section>
+
+<section id="vantagens">
+    <h2>Vantagens de El Niño</h2>
+    <h3>No Campo</h3>
+    <p>Em algumas regiões, o El Niño pode trazer chuvas benéficas para áreas agrícolas que geralmente sofrem com a seca, aumentando a produtividade de culturas.</p>
+    <div class="image-container">
+        <img src="https://example.com/chuva-no-campo.jpg" alt="Chuva no campo">
+    </div>
+    <h3>Na Cidade</h3>
+    <p>Em áreas urbanas, o El Niño pode reduzir a ocorrência de furacões e tempestades tropicais, diminuindo o risco de desastres naturais.</p>
+    <div class="image-container">
+        <img src="https://example.com/cidade-sem-tempestade.jpg" alt="Cidade sem tempestades">
+    </div>
+</section>
+
+<section id="desvantagens">
+    <h2>Desvantagens de El Niño</h2>
+    <h3>No Campo</h3>
+    <p>O excesso de chuvas em áreas agrícolas pode causar enchentes, prejudicando plantações e pastagens, e aumentando a proliferação de pragas e doenças.</p>
+    <div class="image-container">
+        <img src="https://example.com/enchente-no-campo.jpg" alt="Enchente no campo">
+    </div>
+    <h3>Na Cidade</h3>
+    <p>Nas áreas urbanas, o El Niño pode levar a enchentes urbanas, causando danos à infraestrutura, aumento de doenças transmitidas pela água e transtornos para a população.</p>
+    <div class="image-container">
+        <img src="https://example.com/enchente-na-cidade.jpg" alt="Enchente na cidade">
+    </div>
+</section>
+
+<footer>
+    <p>&copy; 2024 El Niño Info. Todos os direitos reservados.</p>
+</footer>
+
+</body>
+</html>
